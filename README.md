@@ -29,6 +29,7 @@ http://${DOMAIN}/swagger-ui.html
 docker build -f Dockerfile-openjdk -t fare:latest .
 ```
 ##test524
+##!234
 * Build Image (Gradle build in image)
 ```bash=
 docker build -f Dockerfile-gradle -t fare:latest .
