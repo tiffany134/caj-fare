@@ -1,8 +1,8 @@
 kind: Deployment
 apiVersion: apps/v1
 metadata:
-  name: user5
-  namespace: caj-fare
+  name: caj-fare
+  namespace: user5
   labels:
     app: caj-fare
     version: v1
